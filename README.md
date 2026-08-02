@@ -1,5 +1,5 @@
 <h1 align="center">Pranshu Bhambri</h1>
-<h3 align="center">Full Stack Engineer · Gartner · Delhi, India</h3>
+<h3 align="center">Full Stack Engineer · Delhi, India</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranshu-bhambri-136695219/">
@@ -15,7 +15,7 @@
 
 ---
 
-Full stack engineer with 2+ years of experience building production-grade backend systems, REST APIs, and React-based frontends. Currently at Gartner, working across Java, Spring Boot, OpenSearch, Node.js, React, and AWS.
+Full stack engineer with 2+ years of experience building production-grade backend systems, REST APIs, and React-based frontends. Experince working across Java, Spring Boot, OpenSearch, Node.js, React, and AWS.
 
 **What I've worked on:**
 - Semantic search model deployment pipelines on OpenSearch with async task orchestration and fault-tolerant retry mechanisms
