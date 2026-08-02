@@ -1,41 +1,44 @@
-<!--
-### Hi there 👋
+<h1 align="center">Pranshu Bhambri</h1>
+<h3 align="center">Full Stack Engineer · Gartner · Delhi, India</h3>
 
-
-**Pranshu-Bhambri/Pranshu-Bhambri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Pranshu Bhambri</h1>
-<h3 align="center">A passionate Full Stack Developer and Problem Solver from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu-bhambri&label=Profile%20views&color=0e75b6&style=flat" alt="pranshu-bhambri" /> </p>
-
-- 🔭 I’m currently pursuing **B.Tech in Information Technology**
-
-- 🌱 I’m currently learning **Web Development and Artificial Intelligence**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Pranshu-Bhambri?tab=repositories](https://github.com/Pranshu-Bhambri?tab=repositories)
-
-- 📝 My Portfolio: [https://pranshu-bhambri.github.io/WebPort/](https://pranshu-bhambri.github.io/WebPort/)
-
-- 📫 How to reach me **https://www.linkedin.com/in/pranshu-bhambri-136695219/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pranshu-bhambri-136695219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranshu-bhambri-136695219/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranshu-bhambri-136695219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://pranshu-bhambri.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:pranshu.bhambri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+Full stack engineer with 2+ years of experience building production-grade backend systems, REST APIs, and React-based frontends. Currently at Gartner, working across Java, Spring Boot, OpenSearch, Node.js, React, and AWS.
+
+**What I've worked on:**
+- Semantic search model deployment pipelines on OpenSearch with async task orchestration and fault-tolerant retry mechanisms
+- React component libraries used across 7+ internal tools
+- Cloud-native deployments on AWS using ECS, Fargate, Docker and SQS
+- End-to-end systems from data scraping and DBSCAN-based analysis to live visualization interfaces — with published research in AIP
+
+---
+
+**Tech I work with**
+
+```
+Languages      Java · JavaScript · TypeScript · Python · C++ · SQL
+Backend        Spring Boot · Node.js · Express.js · REST APIs
+Frontend       React.js · Redux · RTK · Next.js · Tailwind CSS
+Databases      PostgreSQL · MongoDB · MySQL · Redis · OpenSearch
+Cloud          AWS (EC2, ECS, Fargate, S3, CloudFront, SQS) · Docker · NGINX
+Testing        JUnit · Mockito · Jest · Selenium · SonarQube
+```
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranshu-Bhambri&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Bhambri&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
