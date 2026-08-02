@@ -19,7 +19,7 @@ Full stack engineer with 2+ years of experience building production-grade backen
 
 **What I've worked on:**
 - Semantic search model deployment pipelines on OpenSearch with async task orchestration and fault-tolerant retry mechanisms
-- React component libraries used across 7+ internal tools
+- React component libraries used across 7+ customer facing tools tools
 - Cloud-native deployments on AWS using ECS, Fargate, Docker and SQS
 - End-to-end systems from data scraping and DBSCAN-based analysis to live visualization interfaces — with published research in AIP
 
